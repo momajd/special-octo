@@ -185,6 +185,15 @@ hr.small {
   z-index: -1
 }
 
+.header-title {
+  font-size: 128px;
+  font-family: 'Lobster', sans-serif;
+}
+
+.header h3 {
+  font-size: 40px;
+}
+
 /* About */
 
 .about {
